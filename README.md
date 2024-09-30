@@ -1,9 +1,17 @@
-## Olá, sou Leonardo! 👋
+## Hi, I'm Leonardo! 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas
+### Student of Analysis and Systems Development
 
-🎓 Atualmente, estou me especializando em **Análise e Desenvolvimento de Sistemas**, onde estou aprofundando meus conhecimentos em programação e desenvolvimento de software. 
-💻 Além disso, estou cursando **FullStack JavaScript**, explorando tanto o front-end quanto o back-end
+- 🎓 Currently, I am specializing in **Analysis and Systems Development**, where I am deepening my knowledge in programming and software development.
+
+- 💻 Additionally, I am studying **Full Stack JavaScript**, exploring both front-end and back-end.
+
+### 🛠️ Technologies I'm Learning:
+
+- HTML
+- CSS
+- Sass
+- Bootstrap
 
 ###
 
