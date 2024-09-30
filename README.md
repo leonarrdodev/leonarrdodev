@@ -12,6 +12,7 @@
 - CSS
 - Sass
 - Bootstrap
+- JavaScript
 
 ###
 
