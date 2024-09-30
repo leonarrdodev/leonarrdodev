@@ -1,6 +1,9 @@
 ## Olá, sou Leonardo! 👋
 
-- 🔭 Cursando ADS e Full Stack JavaScript
+### Estudante de Análise e Desenvolvimento de Sistemas
+
+🎓 Atualmente, estou me especializando em **Análise e Desenvolvimento de Sistemas**, onde estou aprofundando meus conhecimentos em programação e desenvolvimento de software. 
+💻 Além disso, estou cursando **FullStack JavaScript**, explorando tanto o front-end quanto o back-end
 
 ###
 
