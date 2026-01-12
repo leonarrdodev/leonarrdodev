@@ -1,6 +1,6 @@
 ### Olá, eu sou o Leo! 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** em transição para carreia de **Desenvolvedor Backend**.
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** em transição para carreira de **Desenvolvedor Backend**.
 
 Vindo da área de Suporte Técnico/Telecom, trago uma bagagem forte em resolução de problemas (*troubleshooting*) e redes, que agora aplico no desenvolvimento de software. Meu foco é construir aplicações robustas, escaláveis e bem arquitetadas.
 
