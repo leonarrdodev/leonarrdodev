@@ -1,44 +1,37 @@
-## Hi, I'm Leonardo! 👋
+### Olá, eu sou o Leo! 👋
 
-### Student of Analysis and Systems Development
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** em transição para carreia de **Desenvolvedor Backend**.
 
-- 🎓 Currently, I am specializing in **Analysis and Systems Development**, where I am deepening my knowledge in programming and software development.
+Vindo da área de Suporte Técnico/Telecom, trago uma bagagem forte em resolução de problemas (*troubleshooting*) e redes, que agora aplico no desenvolvimento de software. Meu foco é construir aplicações robustas, escaláveis e bem arquitetadas.
 
-- 💻 Additionally, I am studying **Full Stack JavaScript**, exploring both front-end and back-end.
+---
 
-### 🛠️ Technologies I'm Learning:
+### 🛠️ Tech Stack
 
-- HTML
-- CSS
-- Sass
-- Bootstrap
-- JavaScript
+**Backend & Linguagens**
 
-###
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonarrdodev&hide_title=false&show_icons=true&include_all_commits=true&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonarrdodev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+**Frameworks & Ferramentas**
 
-###
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <a target="_blank" href="https://www.linkedin.com/in/leonarrdo-silva-de-oliveira/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### 🔭 No que estou trabalhando agora?
+
+- **Learning Tracker:** Uma aplicação MVC completa para gerenciamento de estudos usando Node.js, Express e EJS.
+- **ScanIP CLI:** Uma ferramenta de linha de comando para automação de diagnóstico de redes e portas.
+- **Estudos:** Aprofundando em Arquitetura de Software, TypeScript e Bancos de Dados Relacionais.
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonarrdo-silva-de-oliveira)
