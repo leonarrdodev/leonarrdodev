@@ -24,6 +24,12 @@ Vindo da área de Suporte Técnico/Telecom, trago uma bagagem forte em resoluç�
 
 ---
 
+<div align="left">
+  <img height="250em" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=leonarrdodev&layout=donut&theme=gotham&hide_border=true&hide=html,css&custom_title=Stack%20Backend"/>
+</div>
+
+---
+
 ### 🔭 No que estou trabalhando agora?
 
 - **Learning Tracker:** Uma aplicação MVC completa para gerenciamento de estudos usando Node.js, Express e EJS.
