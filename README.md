@@ -18,6 +18,7 @@ Vindo da área de Suporte Técnico/Telecom, trago uma bagagem forte em resoluç�
 **Frameworks & Ferramentas**
 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
